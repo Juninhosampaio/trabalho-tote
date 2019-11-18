@@ -1,0 +1,25 @@
+{
+  "resultado": [
+    {
+      "id": 1,
+      "cliente":"Produto 1",
+      "imageUrl" : "https://a-static.mlcdn.com.br/618x463/notebook-dell-inspiron-i15-3584-m10p-7a-geracao-intel-core-i3-4gb-1tb-15-6-windows-10-mcafee-preto/dell/ci3584w106brw/a06a4e9e70eab99862cdcb0508421115.jpg"
+      
+    },
+    {
+      "id": 2,
+      "cliente":"Produto 2",
+      "imageUrl" : "https://www.pontofrio-imagens.com.br/Informatica/Notebook/9327130/1017565203/notebook-dell-inspiron-i15-5557-a15-processador-intel-core-i7-8gb-1tb-windows-10-tela-156-prata-9327130.jpg"
+    },
+    {
+      "id": 3,
+      "cliente":"Produto 3",
+      "imageUrl" : "https://static.carrefour.com.br/medias/sys_master/images/images/h89/ha9/h00/h00/12952725192734.jpg"
+    },
+    {
+      "id": 4,
+      "cliente":"Produto 4",
+      "imageUrl" : "https://images-submarino.b2w.io/produtos/01/00/offers/01/00/item/133710/8/133710840_1GG.jpg"
+    },
+  ]
+}
